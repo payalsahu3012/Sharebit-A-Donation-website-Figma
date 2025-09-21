@@ -62,5 +62,7 @@ Please make sure to fork the repository and create a pull request for any change
 
 For questions, suggestions, or collaborations:
 Email: contact@sharebite.org
-
 GitHub: github.com/Payalsahu3012
+
+![Website Preview]([assets/preview.gif](https://www.figma.com/design/6Wq1QW9ifjNB9isDTVqHS2/Sharebite?node-id=0-1&t=gvVlVFoz5So0OHUU-1))
+
