@@ -64,5 +64,5 @@ For questions, suggestions, or collaborations:
 Email: contact@sharebite.org
 GitHub: github.com/Payalsahu3012
 
-![Website Preview](sharebite.png))
+![Website Preview](Sharebite.png))
 
