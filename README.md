@@ -1,4 +1,4 @@
-# Sharebit-A-Donation-website-Figma
+# Sharebite-A-Donation-website-Figma
 ShareBite is a web-based platform designed to connect donors, volunteers, and communities to fight hunger and reduce food waste. The platform allows users to donate surplus food from homes, hotels, and restaurants, volunteer to distribute meals, and track the impact of their contributions.
 
 🌟 Features
@@ -37,7 +37,7 @@ Icons & Images: Food, volunteers, community-focused imagery.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/sharebite-website.git
+git clone https://github.com/payalsahu3012/sharebite-website.git
 
 
 Open the Figma file (or HTML/CSS files if built).
