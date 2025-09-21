@@ -62,7 +62,7 @@ Please make sure to fork the repository and create a pull request for any change
 
 For questions, suggestions, or collaborations:
 Email: contact@sharebite.org
-GitHub: github.com/Payalsahu3012
+GitHub: github.com/payalsahu3012
 
 ![Website Preview](Sharebite.png))
 
